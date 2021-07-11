@@ -11,6 +11,11 @@
 
 ---
 
+## Walkthrough and Deployment
+
+https://jdrabot.github.io/portfoliothree/
+https://youtu.be/CXB9vu7moZM
+
 ## Description
 
 My portfolio created using react
